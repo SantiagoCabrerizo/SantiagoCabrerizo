@@ -10,11 +10,8 @@
 <ul>
   <li>🌱 I’m currently learning Information Systems Engineering.</li>
   <li>📫 How to reach me: santi.cabrerizo69@gmail.com </li>
-  <li>🌐 Socials: 
-  <ul>
-    <li><a href="https://www.linkedin.com/in/santiago-cabrerizo-0a6097240/">LinkedIn</a></li>
-    <li><a href="https://www.instagram.com/santi.cabrerizo/">Instagram</a></li>
-  </ul>
+  <li>🌐 Socials: <br> <a href="https://www.linkedin.com/in/santiago-cabrerizo-0a6097240/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+    <a href="https://www.instagram.com/santi.cabrerizo/"><img src="https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram"></a>
   </li>
 </ul>
 
